@@ -1,0 +1,46 @@
+Server:
+  RunMode: debug 			#运行模式
+  HttpPort: 9998			#监听窗口
+  ReadTimeout: 60
+  WriteTimeout: 60
+App:
+  DefaultPageSize: 10				#页数
+  MaxPageSize: 100				#每页最大数量
+  LogSavePath: D:/VS_code/goProjects/blog_service/storage/logs		#默认日志存储路径
+  LogFileName: app
+  LogFileExt: .log
+  UploadSavePath: D:/VS_code/goProjects/blog_service/storage/uploads #上传文件最终保存目录
+  UploadServerUrl: http://127.0.0.1:9998/static                      #上传文件后的用于展示的文件服务地址
+  UploadImageMaxSize: 5 # MB
+  UploadImageAllowExts:                                              #上传文件所允许的后缀
+    - .jpg
+    - .jpeg
+    - .png
+
+
+Database:
+  DBType: mysql
+  Username: root
+  Password: Ljy5820612586
+  Host: 127.0.0.1:3306
+  DBName: blog_service
+  TablePrefix: blog_
+  Charset: utf8mb4
+  ParseTime: True
+  MaxIdleConns: 10
+  MaxOpenConns: 30
+
+JWT:
+  Secret: luowen_lu
+  Issuer: blog_service
+  Expire: 7200
+
+Email:
+  Host: smtp.qq.com
+  Port: 465
+  UserName: 973165711@qq.com
+  Password: ljy5201314
+  IsSSL: true
+  From: 973165711@qq.com
+  To:
+    - 973165711@qq.com

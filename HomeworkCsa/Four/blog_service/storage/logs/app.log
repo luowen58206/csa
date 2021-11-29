@@ -1,0 +1,41 @@
+2021/11/27 16:51:30 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: Name为必填字段","time":1638003090015972100}
+2021/11/27 16:56:16 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: Name为必填字段,CreatedBy为必填字段","time":1638003376411549200}
+2021/11/27 16:57:00 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: CreatedBy为必填字段","time":1638003420958701400}
+2021/11/27 16:57:15 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: CreatedBy为必填字段","time":1638003435194730400}
+2021/11/27 16:57:51 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: Name为必填字段","time":1638003471270750400}
+2021/11/27 16:58:40 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: Name长度必须至少为3个字符","time":1638003520627177700}
+2021/11/27 17:03:52 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: ID为必填字段,Name长度必须至少为3个字符,State为必填字段","time":1638003832880274000}
+2021/11/27 17:09:25 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: ID为必填字段,Name长度必须至少为3个字符,ModifiedBy为必填字段","time":1638004165905310600}
+2021/11/27 17:09:49 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: ID为必填字段,Name长度必须至少为3个字符,ModifiedBy为必填字段","time":1638004189866399600}
+2021/11/27 17:09:59 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: Name长度必须至少为3个字符,ModifiedBy为必填字段,ID为必填字段","time":1638004199136307400}
+2021/11/27 17:10:35 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: ID为必填字段,Name长度必须至少为3个字符,State为必填字段","time":1638004235450539100}
+2021/11/27 17:12:37 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: ID为必填字段","time":1638004357061044000}
+2021/11/27 17:13:13 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: ID为必填字段","time":1638004393577838100}
+2021/11/27 17:13:18 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: ID为必填字段","time":1638004398677536300}
+2021/11/27 17:13:22 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: ID为必填字段","time":1638004402786929800}
+2021/11/27 17:19:46 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: CreatedBy为必填字段","time":1638004786716237800}
+2021/11/27 17:24:52 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: ID为必填字段,Name长度必须至少为3个字符,ModifiedBy为必填字段","time":1638005092038338300}
+2021/11/27 17:24:58 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: ID为必填字段,Name长度必须至少为3个字符,ModifiedBy为必填字段","time":1638005098532785000}
+2021/11/27 17:28:01 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: ID为必填字段","time":1638005281537670500}
+2021/11/27 17:36:37 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: Name长度必须至少为3个字符,State为必填字段","time":1638005797175409400}
+2021/11/27 17:37:04 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: State为必填字段","time":1638005824174616800}
+2021/11/27 17:37:18 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: State为必填字段","time":1638005838839839200}
+2021/11/27 17:37:25 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1638005845103699800}
+2021/11/27 17:37:44 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: State为必填字段","time":1638005864195152800}
+2021/11/27 17:40:12 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: Name长度必须至少为3个字符,State为必填字段","time":1638006012380858600}
+2021/11/27 17:40:40 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: ","time":1638006040694692900}
+2021/11/27 17:40:46 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: State为必填字段","time":1638006046454202100}
+2021/11/27 17:42:39 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: State为必填字段","time":1638006159539633100}
+2021/11/27 17:42:46 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: State为必填字段","time":1638006166849329300}
+2021/11/27 17:44:24 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: State为必填字段","time":1638006264470644500}
+2021/11/27 17:44:36 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: State为必填字段","time":1638006276269796500}
+2021/11/27 17:46:11 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: State为必填字段","time":1638006371317917700}
+2021/11/28 14:32:04 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"svc.UploadFile err: open D:/VS_code/goProjects/blog_service/storage/uploads/caa88cf1550ea1ed72ccd17c62483a18.png: The system cannot find the path specified.","time":1638081124668760200}
+2021/11/28 15:41:55 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: Appkey为必填字段,AppSecret为必填字段","time":1638085315709844500}
+2021/11/28 15:42:22 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"svc.CheckAuth err: auth info does not exist","time":1638085342836653800}
+2021/11/28 15:43:06 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"svc.CheckAuth err: auth info does not exist","time":1638085386551215800}
+2021/11/28 15:44:39 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"svc.CheckAuth err: auth info does not exist","time":1638085479807060900}
+2021/11/28 15:44:40 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"svc.CheckAuth err: auth info does not exist","time":1638085480882695200}
+2021/11/28 15:46:23 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: Appkey为必填字段,AppSecret为必填字段","time":1638085583260128300}
+2021/11/28 16:05:30 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: AppSecret为必填字段,Appkey为必填字段","time":1638086730914300900}
+2021/11/28 16:05:53 {"callers":["D:/VS_code/goProjects/blog_service/main.go: 33 main.init.0"],"level":"fatal","message":"app.BindAndValid errs: Appkey为必填字段,AppSecret为必填字段","time":1638086753180002500}
